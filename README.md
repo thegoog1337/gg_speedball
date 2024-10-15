@@ -16,3 +16,10 @@ Welcome to **gg_Paintball**, a custom map for Call of Duty, bringing the fast-pa
 - **Search & Destroy**
 - **Deathmatch**
 
+## Pictures from the process of making:
+<img src="https://github.com/thegoog1337/gg_splattertown/blob/main/pictures/ingame_map_enclosed.png?raw=true" alt="Map Screenshot" width="600"/>
+<img src="https://github.com/thegoog1337/gg_splattertown/blob/main/pictures/ingame_pre_final.jpg?raw=true" alt="Map Screenshot" width="600"/>
+<img src="https://github.com/thegoog1337/gg_splattertown/blob/main/pictures/3D_Radiant_Final.png?raw=true" alt="Map Screenshot" width="600"/>
+<img src="https://github.com/thegoog1337/gg_splattertown/blob/main/pictures/2D_Radiant_Final.png?raw=true" alt="Map Screenshot" width="600"/>
+<img src="https://github.com/thegoog1337/gg_splattertown/blob/main/pictures/Radiant_Map_Info.png?raw=true" alt="Map Screenshot" width="600"/>
+
